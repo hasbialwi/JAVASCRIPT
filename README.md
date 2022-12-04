@@ -1,7 +1,7 @@
 ---- Learning Javascript ----
 
 <hr>
--- Variable
--- Operator
--- Kondisi Percabangan
--- Loop
+-- Variable <br>
+-- Operator<br>
+-- Kondisi Percabangan<br>
+-- Loop<br>
